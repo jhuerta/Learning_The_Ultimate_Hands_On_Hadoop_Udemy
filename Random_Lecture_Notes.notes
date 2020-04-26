@@ -1,0 +1,7 @@
+- Use VirtualBox to run a VirutalImage of Hadoop:
+https://www.virtualbox.org/wiki/Downloads
+https://www.cloudera.com/downloads/hortonworks-sandbox/hdp.html
+
+Use this link to download data to play with: https://grouplens.org/ (datasets)
+
+Hive: tool to import data and view tables into Hadoop
